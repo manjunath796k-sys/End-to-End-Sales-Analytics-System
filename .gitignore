@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Python cache
+*.pkl
+
+# Power BI cache
+*.pbix.lock
+
+# Logs
+*.log
